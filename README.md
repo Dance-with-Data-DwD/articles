@@ -1,15 +1,15 @@
-# Articles
+# README
 We share our knowledge gained through our development journey wuth you in a series of articles below. Hope you can find it useful.
 
-
-## Career
-- A Letter to Those Seeking to Become a Data Scientist
-
-- [The Beginner’s Guide to Acing SQL Interviews for Data Scientists](https://towardsdatascience.com/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec
-)
+##### Table of Contents
+- [Development](#Development)
+- [NLP](#NLP)
+- [Strategy](#Strategy)
 
 
-## Development
+---
+
+### Development <a name="Development"></a>
 - [How to Learn CircleCI in Simple Words](https://towardsdatascience.com/how-to-learn-circleci-in-simple-words-2275e4299628)
 
 - [How to Learn Git in Simple Words](https://towardsdatascience.com/how-to-learn-git-in-simple-words-263618071dd8)
@@ -18,7 +18,7 @@ We share our knowledge gained through our development journey wuth you in a seri
 
 - [How to Connect a Local or Remote Machine to a Databricks Cluster](https://towardsdatascience.com/how-to-connect-a-local-or-remote-machine-to-a-databricks-cluster-18e03afb53c6)
 
-## NLP
+### NLP <a name="NLP"></a>
 - [Word2Vec Models are Simple Yet Revolutionary](https://towardsdatascience.com/word2vec-models-are-simple-yet-revolutionary-de1fef544b87)
 
 - [How to Compute Sentence Similarity Using BERT and Word2Vec](https://towardsdatascience.com/how-to-compute-sentence-similarity-using-bert-and-word2vec-ab0663a5d64)
@@ -27,10 +27,11 @@ We share our knowledge gained through our development journey wuth you in a seri
 
 - [How to Compute Word Similarity — A Comparative Analysis](https://towardsdatascience.com/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080)
 
-## Strategy
-- [How to Create a Perfect Data Strategy]()
+### Strategy <a name="Strategy"></a>
+- [How to Create a Perfect Data Strategy](https://towardsdatascience.com/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0)
 
-- [How to Structure Your AI Consulting Service]()
+- [How to Structure Your AI Consulting Service](https://towardsdatascience.com/how-to-structure-your-ai-consulting-service-d1acb0c8a7d8)
 
-- [How to Create a Perfect AI Strategy]()
+- [How to Create a Perfect AI Strategy](https://towardsdatascience.com/how-to-create-perfect-ai-strategy-9c7884a89e11)
 
+- [How to Create a Data Strategy for Your Organization](https://towardsdatascience.com/how-to-create-a-data-strategy-for-your-organization-e0493110b2e7)
