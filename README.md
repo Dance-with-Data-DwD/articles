@@ -1,14 +1,3 @@
-# README
-We share our knowledge gained through our development journey wuth you in a series of articles below. Hope you can find it useful.
-
-##### Table of Contents
-- [Development](#Development)
-- [NLP](#NLP)
-- [Strategy](#Strategy)
-
-
----
-
 ### Development <a name="Development"></a>
 - [How to Learn CircleCI in Simple Words](https://towardsdatascience.com/how-to-learn-circleci-in-simple-words-2275e4299628)
 
@@ -17,6 +6,10 @@ We share our knowledge gained through our development journey wuth you in a seri
 - [How to Create an Ubuntu Server to Build an AI Product Using Docker](https://towardsdatascience.com/how-to-create-an-ubuntu-server-to-build-an-ai-product-using-docker-a2414aa09f59)
 
 - [How to Connect a Local or Remote Machine to a Databricks Cluster](https://towardsdatascience.com/how-to-connect-a-local-or-remote-machine-to-a-databricks-cluster-18e03afb53c6)
+
+- [Git-Flow is the Source of Productivity, Not Confusion](https://towardsdatascience.com/git-flow-is-the-source-of-productivity-not-confusion-8abda7c5fb30)
+
+- [Build An ML Product — 4 Mistakes To Avoid](https://towardsdatascience.com/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24)
 
 ### NLP <a name="NLP"></a>
 - [Word2Vec Models are Simple Yet Revolutionary](https://towardsdatascience.com/word2vec-models-are-simple-yet-revolutionary-de1fef544b87)
@@ -35,3 +28,9 @@ We share our knowledge gained through our development journey wuth you in a seri
 - [How to Create a Perfect AI Strategy](https://towardsdatascience.com/how-to-create-perfect-ai-strategy-9c7884a89e11)
 
 - [How to Create a Data Strategy for Your Organization](https://towardsdatascience.com/how-to-create-a-data-strategy-for-your-organization-e0493110b2e7)
+
+- [We Must Be More Realistic With AI.](https://towardsdatascience.com/we-must-be-more-realistic-with-ai-97944fe1ca16)
+
+- [AI Strategy — A Battlefield That Even Big Firms Struggle](https://pub.towardsai.net/ai-strategy-a-battlefield-that-even-big-firms-struggle-539a9f3df396)
+
+- [If You Consider Using AI in Your Business, Read This.](https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23)
