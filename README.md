@@ -24,15 +24,18 @@
 | [How to Create a Data Strategy for Your Organization](https://towardsdatascience.com/how-to-create-a-data-strategy-for-your-organization-e0493110b2e7)|
 | [On the Path to Conducting a Large Scale Data Collection](https://medium.com/dataseries/on-the-path-to-conducting-a-large-scale-data-collection-8a8cd201543d) |
 | [Build An ML Product — 4 Mistakes To Avoid](https://towardsdatascience.com/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24)|
+| [Feature Selection — Exhaustive vs. Cherry-Picked](https://towardsdatascience.com/feature-selection-exhaustive-vs-cherry-picked-7125c50e7ccf)|
 | <tr><th colspan=4> &nbsp;&nbsp;&nbsp; Building An Effective AI Model &nbsp;&nbsp;&nbsp; </th></tr> |
 | [How to Create a Perfect AI Strategy](https://towardsdatascience.com/how-to-create-perfect-ai-strategy-9c7884a89e11) |
 | [How to Build a Fast “Most-Similar Words” Method in SpaCy](https://towardsdatascience.com/how-to-build-a-fast-most-similar-words-method-in-spacy-32ed104fe498) |
 | [How to Compute Word Similarity — A Comparative Analysis](https://towardsdatascience.com/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080) |
 | [Word2Vec Models are Simple Yet Revolutionary](https://towardsdatascience.com/word2vec-models-are-simple-yet-revolutionary-de1fef544b87) |
 | [How to Compute Sentence Similarity Using BERT and Word2Vec](https://towardsdatascience.com/how-to-compute-sentence-similarity-using-bert-and-word2vec-ab0663a5d64) |
-| [Feature Selection — Exhaustive vs. Cherry-Picked](https://towardsdatascience.com/feature-selection-exhaustive-vs-cherry-picked-7125c50e7ccf)|
 | <tr><th colspan=4> &nbsp;&nbsp;&nbsp; Learn More &nbsp;&nbsp;&nbsp; </th></tr> |
 | [Infrastructure as Code — Pros vs Pros](https://towardsdatascience.com/infrastructure-as-code-pros-vs-pros-5dbe9a245f47)|
+| [Silhouette or Elbow? That is the Question.](https://towardsdatascience.com/silhouette-or-elbow-that-is-the-question-a1dda4fb974)|
+| [The Story of an Ensemble Classifier Acquired by Facebook](https://towardsdatascience.com/the-story-of-an-ensemble-classifier-acquired-by-facebook-53eeaa5b5a97)|
+| [Are These Similar Enough?](https://towardsdatascience.com/are-these-similar-enough-a7466d4a745c) |
 | <tr><th colspan=4> &nbsp;&nbsp;&nbsp; Last Words &nbsp;&nbsp;&nbsp; </th></tr> |
 | [An Open Letter to the Data Science Community](https://towardsdatascience.com/an-open-letter-to-data-science-community-cc887d45a3d1) |
 
