@@ -5,12 +5,15 @@
 | [A Letter to Those Data Scientists Living in North America](https://pub.towardsai.net/a-letter-to-those-data-scientists-living-in-north-america-9039b1925f4e)|
 | [How to Write a Great Resume as a Data Scientist — For Beginners](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-beginners-139a8ad4191e)|
 | [How to Write a Great Resume as a Data Scientist — For Professionals](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e)|
+| [The Beginner’s Guide to Acing SQL Interviews for Data Scientists](https://towardsdatascience.com/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec)|
+| [6 YouTube Playlists in Data Science For Every Educational Purpose](https://towardsdatascience.com/6-youtube-playlists-in-data-science-for-every-educational-purpose-5bee960c4d01)|
 | <tr><th colspan=4>&nbsp;&nbsp;💡 &nbsp; Essential Skills for Data Scientists &nbsp;&nbsp;&nbsp; </th></tr> |
 | [How to Learn Git in Simple Words](https://towardsdatascience.com/how-to-learn-git-in-simple-words-263618071dd8)|
 | [How to Learn CircleCI in Simple Words](https://towardsdatascience.com/how-to-learn-circleci-in-simple-words-2275e4299628)|
 | [How to Create an Ubuntu Server to Build an AI Product Using Docker](https://towardsdatascience.com/how-to-create-an-ubuntu-server-to-build-an-ai-product-using-docker-a2414aa09f59)|
 | [Git-Flow is the Source of Productivity, Not Confusion](https://towardsdatascience.com/git-flow-is-the-source-of-productivity-not-confusion-8abda7c5fb30)|
 | [How to Connect a Local or Remote Machine to a Databricks Cluster](https://towardsdatascience.com/how-to-connect-a-local-or-remote-machine-to-a-databricks-cluster-18e03afb53c6)|
+| [Why Experiment Management is the Key to Success in Data Science](https://pedram-ataee.medium.com/why-experiment-management-is-the-key-to-success-in-data-science-b286aaa4700d) |
 | <tr><th colspan=4>&nbsp;&nbsp;💰 &nbsp;AI Will Transform Your Business &nbsp;&nbsp;&nbsp; </th></tr> |
 | [AI Strategy — A Battlefield That Even Big Firms Struggle](https://pub.towardsai.net/ai-strategy-a-battlefield-that-even-big-firms-struggle-539a9f3df396) |
 | [How to Structure Your AI Consulting Service](https://towardsdatascience.com/how-to-structure-your-ai-consulting-service-d1acb0c8a7d8) |
@@ -27,3 +30,9 @@
 | [How to Compute Word Similarity — A Comparative Analysis](https://towardsdatascience.com/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080) |
 | [Word2Vec Models are Simple Yet Revolutionary](https://towardsdatascience.com/word2vec-models-are-simple-yet-revolutionary-de1fef544b87) |
 | [How to Compute Sentence Similarity Using BERT and Word2Vec](https://towardsdatascience.com/how-to-compute-sentence-similarity-using-bert-and-word2vec-ab0663a5d64) |
+| [Feature Selection — Exhaustive vs. Cherry-Picked](https://towardsdatascience.com/feature-selection-exhaustive-vs-cherry-picked-7125c50e7ccf)|
+| <tr><th colspan=4> &nbsp;&nbsp;&nbsp; Learn More &nbsp;&nbsp;&nbsp; </th></tr> |
+| [Infrastructure as Code — Pros vs Pros](https://towardsdatascience.com/infrastructure-as-code-pros-vs-pros-5dbe9a245f47)|
+| <tr><th colspan=4> &nbsp;&nbsp;&nbsp; Last Words &nbsp;&nbsp;&nbsp; </th></tr> |
+| [An Open Letter to the Data Science Community](https://towardsdatascience.com/an-open-letter-to-data-science-community-cc887d45a3d1) |
+
