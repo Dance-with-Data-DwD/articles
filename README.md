@@ -4,7 +4,7 @@
 | [A Letter to Those Seeking to Become a Data Scientist](https://towardsdatascience.com/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd)|
 | [A Letter to Those Data Scientists Living in North America](https://pub.towardsai.net/a-letter-to-those-data-scientists-living-in-north-america-9039b1925f4e)|
 | [How to Write a Great Resume as a Data Scientist — For Beginners](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-beginners-139a8ad4191e)|
-| [How to Write a Great Resume as a Data Scientist — For Professionals](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e)|
+| [How to Write a Great Resume as a Data Scientist — For Professionals](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | [The Beginner’s Guide to Acing SQL Interviews for Data Scientists](https://towardsdatascience.com/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec)|
 | [6 YouTube Playlists in Data Science For Every Educational Purpose](https://towardsdatascience.com/6-youtube-playlists-in-data-science-for-every-educational-purpose-5bee960c4d01)|
 | <tr><th colspan=4>&nbsp;&nbsp;💡 &nbsp; Essential Skills for Data Scientists &nbsp;&nbsp;&nbsp; </th></tr> |
@@ -38,4 +38,3 @@
 | [Are These Similar Enough?](https://towardsdatascience.com/are-these-similar-enough-a7466d4a745c) |
 | <tr><th colspan=4> &nbsp;&nbsp;🏮 &nbsp; Last Words &nbsp;&nbsp;&nbsp; </th></tr> |
 | [An Open Letter to the Data Science Community](https://towardsdatascience.com/an-open-letter-to-data-science-community-cc887d45a3d1) |
-
