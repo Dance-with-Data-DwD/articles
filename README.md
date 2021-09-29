@@ -14,6 +14,7 @@
 | [Git-Flow is the Source of Productivity, Not Confusion](https://towardsdatascience.com/git-flow-is-the-source-of-productivity-not-confusion-8abda7c5fb30)|
 | [How to Connect a Local or Remote Machine to a Databricks Cluster](https://towardsdatascience.com/how-to-connect-a-local-or-remote-machine-to-a-databricks-cluster-18e03afb53c6)|
 | [Why Experiment Management is the Key to Success in Data Science](https://pedram-ataee.medium.com/why-experiment-management-is-the-key-to-success-in-data-science-b286aaa4700d) |
+| [Deep Learning in Simple Words](https://towardsdatascience.com/deep-learning-in-simple-words-448e2c7f6ebe)|
 | <tr><th colspan=4>&nbsp;&nbsp;💰 &nbsp;AI Will Transform Your Business &nbsp;&nbsp;&nbsp; </th></tr> |
 | [AI Strategy — A Battlefield That Even Big Firms Struggle](https://pub.towardsai.net/ai-strategy-a-battlefield-that-even-big-firms-struggle-539a9f3df396) |
 | [How to Structure Your AI Consulting Service](https://towardsdatascience.com/how-to-structure-your-ai-consulting-service-d1acb0c8a7d8) |
