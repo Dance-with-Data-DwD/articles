@@ -1,6 +1,5 @@
-| <tr><th colspan=4> &nbsp;&nbsp;👋 &nbsp; Let's Start!  &nbsp;&nbsp;&nbsp; </th></tr>  |
-| :---  | 
 | <tr><th colspan=4>&nbsp;&nbsp;🚀 &nbsp; How To Become Data Scientist &nbsp;&nbsp;&nbsp; </th></tr> |
+| :---  | 
 | [A Letter to Those Seeking to Become a Data Scientist](https://towardsdatascience.com/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd)|
 | [How to Write a Great Resume as a Data Scientist — For Beginners](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-beginners-139a8ad4191e)|
 | [How to Write a Great Resume as a Data Scientist — For Professionals](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
