@@ -3,7 +3,7 @@
 | <tr><th colspan=4>&nbsp;&nbsp;🚀 &nbsp; How To Become Data Scientist &nbsp;&nbsp;&nbsp; </th></tr> |
 | [A Letter to Those Seeking to Become a Data Scientist](https://towardsdatascience.com/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd)|
 | [How to Write a Great Resume as a Data Scientist — For Beginners](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-beginners-139a8ad4191e)|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How to Write a Great Resume as a Data Scientist — For Professionals](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| [How to Write a Great Resume as a Data Scientist — For Professionals](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | [The Beginner’s Guide to Acing SQL Interviews for Data Scientists](https://towardsdatascience.com/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec)|
 | [6 YouTube Playlists in Data Science For Every Educational Purpose](https://towardsdatascience.com/6-youtube-playlists-in-data-science-for-every-educational-purpose-5bee960c4d01)|
 | <tr><th colspan=4>&nbsp;&nbsp;💡 &nbsp; Notes From Industry &nbsp;&nbsp;&nbsp; </th></tr> |
@@ -15,6 +15,7 @@
 | [Why Experiment Management is the Key to Success in Data Science](https://pedram-ataee.medium.com/why-experiment-management-is-the-key-to-success-in-data-science-b286aaa4700d) |
 | [Deep Learning in Simple Words](https://towardsdatascience.com/deep-learning-in-simple-words-448e2c7f6ebe)|
 | [Infrastructure as Code — Pros vs Pros](https://towardsdatascience.com/infrastructure-as-code-pros-vs-pros-5dbe9a245f47)|
+| [How to Build an Automated Development Pipeline](https://towardsdatascience.com/how-to-build-an-automated-development-pipeline-d0b9820a2f3d)|
 | <tr><th colspan=4>&nbsp;&nbsp;💰 &nbsp;AI Consulting &nbsp;&nbsp;&nbsp; </th></tr> |
 | [AI Strategy — A Battlefield That Even Big Firms Struggle](https://pub.towardsai.net/ai-strategy-a-battlefield-that-even-big-firms-struggle-539a9f3df396) |
 | [How to Structure Your AI Consulting Service](https://towardsdatascience.com/how-to-structure-your-ai-consulting-service-d1acb0c8a7d8) |
