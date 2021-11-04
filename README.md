@@ -10,13 +10,14 @@
 | <tr><th colspan=4>&nbsp;&nbsp;💡 &nbsp; Notes From Industry &nbsp;&nbsp;&nbsp; </th></tr> |
 | [How to Learn Git in Simple Words](https://towardsdatascience.com/how-to-learn-git-in-simple-words-263618071dd8)|
 | [How to Learn CircleCI in Simple Words](https://towardsdatascience.com/how-to-learn-circleci-in-simple-words-2275e4299628)|
+| [How to Build an Automated Development Pipeline](https://towardsdatascience.com/how-to-build-an-automated-development-pipeline-d0b9820a2f3d)|
+| [How to Deploy on Kubernetes in Simple Words](https://towardsdatascience.com/how-to-deploy-on-kubernetes-in-simple-words-aba6f42cc888)|
 | [How to Create an Ubuntu Server to Build an AI Product Using Docker](https://towardsdatascience.com/how-to-create-an-ubuntu-server-to-build-an-ai-product-using-docker-a2414aa09f59)|
 | [Git-Flow is the Source of Productivity, Not Confusion](https://towardsdatascience.com/git-flow-is-the-source-of-productivity-not-confusion-8abda7c5fb30)|
 | [How to Connect a Local or Remote Machine to a Databricks Cluster](https://towardsdatascience.com/how-to-connect-a-local-or-remote-machine-to-a-databricks-cluster-18e03afb53c6)|
 | [Why Experiment Management is the Key to Success in Data Science](https://pedram-ataee.medium.com/why-experiment-management-is-the-key-to-success-in-data-science-b286aaa4700d) |
 | [Deep Learning in Simple Words](https://towardsdatascience.com/deep-learning-in-simple-words-448e2c7f6ebe)|
 | [Infrastructure as Code — Pros vs Pros](https://towardsdatascience.com/infrastructure-as-code-pros-vs-pros-5dbe9a245f47)|
-| [How to Build an Automated Development Pipeline](https://towardsdatascience.com/how-to-build-an-automated-development-pipeline-d0b9820a2f3d)|
 | <tr><th colspan=4>&nbsp;&nbsp;💰 &nbsp;Notes on Community &nbsp;&nbsp;&nbsp; </th></tr> |
 | [AI Strategy — A Battlefield That Even Big Firms Struggle](https://pub.towardsai.net/ai-strategy-a-battlefield-that-even-big-firms-struggle-539a9f3df396) |
 | [We Must Be More Realistic With AI.](https://towardsdatascience.com/we-must-be-more-realistic-with-ai-97944fe1ca16) |
