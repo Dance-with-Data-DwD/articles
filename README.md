@@ -2,8 +2,10 @@
 | :---  | 
 | [A Letter to Those Seeking to Become a Data Scientist](https://towardsdatascience.com/a-letter-to-those-seeking-to-become-a-data-scientist-f217253cd2dd)|
 | [How to Write a Great Resume as a Data Scientist — For Beginners](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-beginners-139a8ad4191e)|
-| [How to Write a Great Resume as a Data Scientist — For Professionals](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| [How to Write a Great Resume as a Data Scientist — For Professionals](https://towardsdatascience.com/how-to-write-a-great-resume-as-a-data-scientist-for-professionals-98359ab19a6e) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | [The Beginner’s Guide to Acing SQL Interviews for Data Scientists](https://towardsdatascience.com/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec)|
+| [The Beginner’s Guide to Acing ML Interviews for Data Scientists](https://towardsdatascience.com/the-beginners-guide-to-acing-ml-interviews-for-data-scientists-6ff04d8cb391)|
+| [How a Data Science Mentor Can Help You](https://towardsdatascience.com/how-a-data-science-mentor-can-help-you-41c7421c6e6e)|
 | [6 YouTube Playlists in Data Science For Every Educational Purpose](https://towardsdatascience.com/6-youtube-playlists-in-data-science-for-every-educational-purpose-5bee960c4d01)|
 | <tr><th colspan=4>&nbsp;&nbsp;💡 &nbsp; Notes From Industry &nbsp;&nbsp;&nbsp; </th></tr> |
 | [How to Learn Git in Simple Words](https://towardsdatascience.com/how-to-learn-git-in-simple-words-263618071dd8)|
@@ -15,12 +17,12 @@
 | [Deep Learning in Simple Words](https://towardsdatascience.com/deep-learning-in-simple-words-448e2c7f6ebe)|
 | [Infrastructure as Code — Pros vs Pros](https://towardsdatascience.com/infrastructure-as-code-pros-vs-pros-5dbe9a245f47)|
 | [How to Build an Automated Development Pipeline](https://towardsdatascience.com/how-to-build-an-automated-development-pipeline-d0b9820a2f3d)|
-| <tr><th colspan=4>&nbsp;&nbsp;💰 &nbsp;AI Consulting &nbsp;&nbsp;&nbsp; </th></tr> |
+| <tr><th colspan=4>&nbsp;&nbsp;💰 &nbsp;Notes on Community &nbsp;&nbsp;&nbsp; </th></tr> |
 | [AI Strategy — A Battlefield That Even Big Firms Struggle](https://pub.towardsai.net/ai-strategy-a-battlefield-that-even-big-firms-struggle-539a9f3df396) |
-| [How to Structure Your AI Consulting Service](https://towardsdatascience.com/how-to-structure-your-ai-consulting-service-d1acb0c8a7d8) |
 | [We Must Be More Realistic With AI.](https://towardsdatascience.com/we-must-be-more-realistic-with-ai-97944fe1ca16) |
-| [If You Consider Using AI in Your Business, Read This.](https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23)|
 | [The Story of an Ensemble Classifier Acquired by Facebook](https://towardsdatascience.com/the-story-of-an-ensemble-classifier-acquired-by-facebook-53eeaa5b5a97)|
+| [How AI Can Help Fight Climate Change](https://towardsdatascience.com/how-ai-can-help-fight-climate-change-c86531d710f0)|
+| [From a Data Science Interview to an Open-Source GitHub Project](https://towardsdatascience.com/from-a-data-science-interview-to-an-open-source-github-project-87c228902968)|
 | <tr><th colspan=4>&nbsp;&nbsp;🧨 &nbsp; Notes on AI &nbsp;&nbsp;&nbsp; </th></tr> |
 | [How to Create a Perfect AI Strategy](https://towardsdatascience.com/how-to-create-perfect-ai-strategy-9c7884a89e11) |
 | [How to Create a Perfect Data Strategy](https://towardsdatascience.com/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0)  |
@@ -30,6 +32,8 @@
 | [Feature Selection — Exhaustive vs. Cherry-Picked](https://towardsdatascience.com/feature-selection-exhaustive-vs-cherry-picked-7125c50e7ccf)|
 | [Silhouette or Elbow? That is the Question.](https://towardsdatascience.com/silhouette-or-elbow-that-is-the-question-a1dda4fb974)|
 | [Are These Similar Enough?](https://towardsdatascience.com/are-these-similar-enough-a7466d4a745c) |
+| [How to Structure Your AI Consulting Service](https://towardsdatascience.com/how-to-structure-your-ai-consulting-service-d1acb0c8a7d8) |
+| [If You Consider Using AI in Your Business, Read This.](https://medium.com/swlh/if-you-consider-using-ai-in-your-business-read-this-5e666e6eca23)|
 | <tr><th colspan=4> &nbsp;&nbsp;🛡 &nbsp; NLP-in-Production &nbsp;&nbsp;&nbsp; </th></tr> |
 | [How to Build a Fast “Most-Similar Words” Method in SpaCy](https://towardsdatascience.com/how-to-build-a-fast-most-similar-words-method-in-spacy-32ed104fe498) |
 | [How to Compute Word Similarity — A Comparative Analysis](https://towardsdatascience.com/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080) |
